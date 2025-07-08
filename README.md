@@ -1,4 +1,18 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 🎮 2048 Game
+
+Implementation of the classic 2048 puzzle game. Built with vanilla JavaScript, SCSS, and HTML — no libraries or frameworks involved!
+
+## 🚀 [Play the Game](https://bronex25.github.io/JS_2048/)
+
+## ✨ Features
+
+- 🎲 Classic 2048 tile-merging gameplay
+- 📱 Responsive design for desktop and mobile
+- ♻️ Restart & New Game controls
+- 🎉 Win/Lose messages
+
+## 🛠 Tech Stack
+
+- **JavaScript** – Game logic and interaction
+- **SCSS** – Styles 
+- **HTML** – Semantic layout
